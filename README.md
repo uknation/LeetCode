@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/uknation/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/uknation/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/uknation/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/uknation/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/uknation/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/uknation/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/uknation/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/uknation/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/uknation/LeetCode/tree/master/0233-number-of-digit-one) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/uknation/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/uknation/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/uknation/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/uknation/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/uknation/LeetCode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/uknation/LeetCode/tree/master/0233-number-of-digit-one) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/uknation/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/uknation/LeetCode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/uknation/LeetCode/tree/master/0233-number-of-digit-one) |
 ## Design
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/uknation/LeetCode/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/uknation/LeetCode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->

@@ -163,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/uknation/LeetCode/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/uknation/LeetCode/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/uknation/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/uknation/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/uknation/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/uknation/LeetCode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -81,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/uknation/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/uknation/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/uknation/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/uknation/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/uknation/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/uknation/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/uknation/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -86,17 +87,20 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/uknation/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uknation/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/uknation/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/uknation/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/uknation/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/uknation/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/uknation/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/uknation/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -107,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/uknation/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/uknation/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uknation/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/uknation/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/uknation/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |

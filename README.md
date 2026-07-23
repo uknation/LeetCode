@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0282-expression-add-operators](https://github.com/uknation/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/uknation/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/uknation/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/uknation/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/uknation/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/uknation/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/uknation/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/uknation/LeetCode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/uknation/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Binary Search Tree
 |  |
 | ------- |

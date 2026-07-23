@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0335-self-crossing](https://github.com/uknation/LeetCode/tree/master/0335-self-crossing) |
 | [0343-integer-break](https://github.com/uknation/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/uknation/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0367-valid-perfect-square](https://github.com/uknation/LeetCode/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/uknation/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/uknation/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |

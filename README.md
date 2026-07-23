@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/uknation/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/uknation/LeetCode/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/uknation/LeetCode/tree/master/0282-expression-add-operators) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/uknation/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/uknation/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/uknation/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/uknation/LeetCode/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/uknation/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/uknation/LeetCode/tree/master/0282-expression-add-operators) |
 ## Simulation
 |  |
 | ------- |

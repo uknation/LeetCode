@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/uknation/LeetCode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/uknation/LeetCode/tree/master/0335-self-crossing) |
 | [0343-integer-break](https://github.com/uknation/LeetCode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/uknation/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## String
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/uknation/LeetCode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/uknation/LeetCode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/uknation/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/uknation/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0282-expression-add-operators](https://github.com/uknation/LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/uknation/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/uknation/LeetCode/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/uknation/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Simulation
 |  |
 | ------- |

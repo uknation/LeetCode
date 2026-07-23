@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/uknation/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/uknation/LeetCode/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/uknation/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/uknation/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/uknation/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/uknation/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -187,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/uknation/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/uknation/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/uknation/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/uknation/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/uknation/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/uknation/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/uknation/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/uknation/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -274,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/uknation/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/uknation/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/uknation/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -380,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/uknation/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -396,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/uknation/LeetCode/tree/master/0336-palindrome-pairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

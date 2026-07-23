@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/uknation/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/uknation/LeetCode/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/uknation/LeetCode/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/uknation/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/uknation/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/uknation/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/uknation/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/uknation/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/uknation/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/uknation/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/uknation/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/uknation/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |

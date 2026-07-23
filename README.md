@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/uknation/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/uknation/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/uknation/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/uknation/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0341-flatten-nested-list-iterator](https://github.com/uknation/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/uknation/LeetCode/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/uknation/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0376-wiggle-subsequence](https://github.com/uknation/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/uknation/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uknation/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/uknation/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/uknation/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/uknation/LeetCode/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/uknation/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
 | ------- |
@@ -461,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/uknation/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

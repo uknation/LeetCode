@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/uknation/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/uknation/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/uknation/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/uknation/LeetCode/tree/master/0321-create-maximum-number) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0313-super-ugly-number](https://github.com/uknation/LeetCode/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/uknation/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/uknation/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/uknation/LeetCode/tree/master/0321-create-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/uknation/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/uknation/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/uknation/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/uknation/LeetCode/tree/master/0321-create-maximum-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -305,8 +308,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/uknation/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/uknation/LeetCode/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/uknation/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/uknation/LeetCode/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->

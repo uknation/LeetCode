@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/uknation/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/uknation/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/uknation/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Queue
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/uknation/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/uknation/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0327-count-of-range-sum](https://github.com/uknation/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/uknation/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/uknation/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/uknation/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/uknation/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/uknation/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -417,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->

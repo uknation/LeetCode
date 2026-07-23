@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/uknation/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/uknation/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/uknation/LeetCode/tree/master/0284-peeking-iterator) |
 ## Queue
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/uknation/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/uknation/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/uknation/LeetCode/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/uknation/LeetCode/tree/master/0284-peeking-iterator) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/uknation/LeetCode/tree/master/0278-first-bad-version) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/uknation/LeetCode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->

@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/uknation/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/uknation/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/uknation/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0301-remove-invalid-parentheses](https://github.com/uknation/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/uknation/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/uknation/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/uknation/LeetCode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/uknation/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/uknation/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0312-burst-balloons](https://github.com/uknation/LeetCode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/uknation/LeetCode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/uknation/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -242,10 +246,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/uknation/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/uknation/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Memoization
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/uknation/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -306,10 +312,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/uknation/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Topological Sort
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/uknation/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |

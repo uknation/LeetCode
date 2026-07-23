@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/uknation/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/uknation/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/uknation/LeetCode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/uknation/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/uknation/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/uknation/LeetCode/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/uknation/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/uknation/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/uknation/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uknation/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/uknation/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/uknation/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/uknation/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uknation/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/uknation/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/uknation/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/uknation/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/uknation/LeetCode/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/uknation/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -89,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/uknation/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uknation/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/uknation/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/uknation/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Array
 |  |
 | ------- |

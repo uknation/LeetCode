@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0282-expression-add-operators](https://github.com/uknation/LeetCode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/uknation/LeetCode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/uknation/LeetCode/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/uknation/LeetCode/tree/master/0319-bulb-switcher) |
 ## String
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/uknation/LeetCode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/uknation/LeetCode/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0319-bulb-switcher](https://github.com/uknation/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/uknation/LeetCode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/uknation/LeetCode/tree/master/0335-self-crossing) |
+| [0343-integer-break](https://github.com/uknation/LeetCode/tree/master/0343-integer-break) |
 ## String
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/uknation/LeetCode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/uknation/LeetCode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/uknation/LeetCode/tree/master/0343-integer-break) |
 ## Linked List
 |  |
 | ------- |

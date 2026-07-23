@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0357-count-numbers-with-unique-digits](https://github.com/uknation/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/uknation/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/uknation/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/uknation/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## String
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0343-integer-break](https://github.com/uknation/LeetCode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/uknation/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/uknation/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/uknation/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/uknation/LeetCode/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/uknation/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Data Stream
 |  |
 | ------- |

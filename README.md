@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0299-bulls-and-cows](https://github.com/uknation/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/uknation/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/uknation/LeetCode/tree/master/0306-additive-number) |
+| [0316-remove-duplicate-letters](https://github.com/uknation/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/uknation/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/uknation/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/uknation/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/uknation/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Recursion
 |  |
 | ------- |
@@ -294,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/uknation/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/uknation/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/uknation/LeetCode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->

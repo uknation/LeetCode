@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/uknation/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/uknation/LeetCode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/uknation/LeetCode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/uknation/LeetCode/tree/master/0292-nim-game) |
 ## String
 |  |
 | ------- |
@@ -212,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/uknation/LeetCode/tree/master/0284-peeking-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/uknation/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/uknation/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

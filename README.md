@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/uknation/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/uknation/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/uknation/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/uknation/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/uknation/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/uknation/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/uknation/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/uknation/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/uknation/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/uknation/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Memoization
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/uknation/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/uknation/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Greedy
 |  |
 | ------- |

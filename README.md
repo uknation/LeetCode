@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0313-super-ugly-number](https://github.com/uknation/LeetCode/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/uknation/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/uknation/LeetCode/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/uknation/LeetCode/tree/master/0335-self-crossing) |
 ## String
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0330-patching-array](https://github.com/uknation/LeetCode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/uknation/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/uknation/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/uknation/LeetCode/tree/master/0335-self-crossing) |
 ## Hash Table
 |  |
 | ------- |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/uknation/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/uknation/LeetCode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->

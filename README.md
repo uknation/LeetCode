@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0376-wiggle-subsequence](https://github.com/uknation/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/uknation/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uknation/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/uknation/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/uknation/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/uknation/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uknation/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/uknation/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/uknation/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uknation/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/uknation/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/uknation/LeetCode/tree/master/0355-design-twitter) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uknation/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/uknation/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uknation/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Memoization
 |  |
 | ------- |

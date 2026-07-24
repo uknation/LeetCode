@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0398-random-pick-index](https://github.com/uknation/LeetCode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/uknation/LeetCode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/uknation/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0486-predict-the-winner](https://github.com/uknation/LeetCode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/uknation/LeetCode/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/uknation/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/uknation/LeetCode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/uknation/LeetCode/tree/master/0486-predict-the-winner) |
 ## Design
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0406-queue-reconstruction-by-height](https://github.com/uknation/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/uknation/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/uknation/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/uknation/LeetCode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/uknation/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0466-count-the-repetitions](https://github.com/uknation/LeetCode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/uknation/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0486-predict-the-winner](https://github.com/uknation/LeetCode/tree/master/0486-predict-the-winner) |
 ## Linked List
 |  |
 | ------- |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0292-nim-game](https://github.com/uknation/LeetCode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/uknation/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/uknation/LeetCode/tree/master/0486-predict-the-winner) |
 ## Data Stream
 |  |
 | ------- |

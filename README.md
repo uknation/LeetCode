@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/uknation/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uknation/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/uknation/LeetCode/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/uknation/LeetCode/tree/master/0385-mini-parser) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0321-create-maximum-number](https://github.com/uknation/LeetCode/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/uknation/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/uknation/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/uknation/LeetCode/tree/master/0385-mini-parser) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/uknation/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/uknation/LeetCode/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/uknation/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/uknation/LeetCode/tree/master/0385-mini-parser) |
 ## Breadth-First Search
 |  |
 | ------- |

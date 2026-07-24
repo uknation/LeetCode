@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/uknation/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/uknation/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/uknation/LeetCode/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/uknation/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Stack
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/uknation/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/uknation/LeetCode/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/uknation/LeetCode/tree/master/0391-perfect-rectangle) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/uknation/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/uknation/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/uknation/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/uknation/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/uknation/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/uknation/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/uknation/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Matrix
 |  |
 | ------- |

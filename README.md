@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0388-longest-absolute-file-path](https://github.com/uknation/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/uknation/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/uknation/LeetCode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/uknation/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/uknation/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/uknation/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/uknation/LeetCode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/uknation/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0391-perfect-rectangle](https://github.com/uknation/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/uknation/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/uknation/LeetCode/tree/master/0398-random-pick-index) |
+| [0496-next-greater-element-i](https://github.com/uknation/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/uknation/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/uknation/LeetCode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/uknation/LeetCode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/uknation/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Quickselect
 |  |
 | ------- |

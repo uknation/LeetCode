@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0385-mini-parser](https://github.com/uknation/LeetCode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/uknation/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/uknation/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/uknation/LeetCode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/uknation/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/uknation/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/uknation/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/uknation/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/uknation/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/uknation/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uknation/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/uknation/LeetCode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0318-maximum-product-of-word-lengths](https://github.com/uknation/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/uknation/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/uknation/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/uknation/LeetCode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |

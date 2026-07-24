@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/uknation/LeetCode/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/uknation/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/uknation/LeetCode/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/uknation/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/uknation/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/uknation/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Hash Function
 |  |
 | ------- |

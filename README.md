@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0495-teemo-attacking](https://github.com/uknation/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/uknation/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/uknation/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/uknation/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uknation/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/uknation/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/uknation/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Memoization
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/uknation/LeetCode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/uknation/LeetCode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/uknation/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Number Theory
 |  |
 | ------- |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0384-shuffle-an-array](https://github.com/uknation/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/uknation/LeetCode/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/uknation/LeetCode/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/uknation/LeetCode/tree/master/0396-rotate-function) |
 ## String
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0384-shuffle-an-array](https://github.com/uknation/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/uknation/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/uknation/LeetCode/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/uknation/LeetCode/tree/master/0396-rotate-function) |
 ## Hash Table
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0376-wiggle-subsequence](https://github.com/uknation/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/uknation/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/uknation/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/uknation/LeetCode/tree/master/0396-rotate-function) |
 ## Linked List
 |  |
 | ------- |

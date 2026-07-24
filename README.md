@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/uknation/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/uknation/LeetCode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/uknation/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
 ## Stack
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0385-mini-parser](https://github.com/uknation/LeetCode/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/uknation/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/uknation/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/uknation/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/uknation/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
 ## Binary Tree
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0391-perfect-rectangle](https://github.com/uknation/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/uknation/LeetCode/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/uknation/LeetCode/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
 ## Hash Table
 |  |
 | ------- |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/uknation/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uknation/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/uknation/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
@@ -520,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/uknation/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
 ## Randomized
 |  |
 | ------- |
@@ -537,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/uknation/LeetCode/tree/master/0391-perfect-rectangle) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->

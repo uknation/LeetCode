@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0390-elimination-game](https://github.com/uknation/LeetCode/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/uknation/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/uknation/LeetCode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/uknation/LeetCode/tree/master/0398-random-pick-index) |
 ## String
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/uknation/LeetCode/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/uknation/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/uknation/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/uknation/LeetCode/tree/master/0398-random-pick-index) |
 ## Sorting
 |  |
 | ------- |
@@ -525,10 +527,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/uknation/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/uknation/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/uknation/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/uknation/LeetCode/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/uknation/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/uknation/LeetCode/tree/master/0398-random-pick-index) |
 ## Sweep Line
 |  |
 | ------- |

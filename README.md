@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/uknation/LeetCode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/uknation/LeetCode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/uknation/LeetCode/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/uknation/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/uknation/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/uknation/LeetCode/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/uknation/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Stack
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0393-utf-8-validation](https://github.com/uknation/LeetCode/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/uknation/LeetCode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/uknation/LeetCode/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/uknation/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
 | ------- |

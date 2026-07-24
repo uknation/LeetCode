@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0388-longest-absolute-file-path](https://github.com/uknation/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/uknation/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/uknation/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/uknation/LeetCode/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0341-flatten-nested-list-iterator](https://github.com/uknation/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/uknation/LeetCode/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/uknation/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/uknation/LeetCode/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/uknation/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/uknation/LeetCode/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/uknation/LeetCode/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/uknation/LeetCode/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |

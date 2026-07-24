@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/uknation/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/uknation/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/uknation/LeetCode/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/uknation/LeetCode/tree/master/0495-teemo-attacking) |
 ## Hash Table
 |  |
 | ------- |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/uknation/LeetCode/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/uknation/LeetCode/tree/master/0495-teemo-attacking) |
 ## Number Theory
 |  |
 | ------- |

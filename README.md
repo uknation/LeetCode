@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/uknation/LeetCode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/uknation/LeetCode/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/uknation/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/uknation/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uknation/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/uknation/LeetCode/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/uknation/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 ## Counting
 |  |
 | ------- |
@@ -464,12 +466,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/uknation/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/uknation/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/uknation/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/uknation/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/uknation/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/uknation/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/uknation/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/uknation/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 ## Graph Theory
 |  |
 | ------- |

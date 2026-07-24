@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/uknation/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/uknation/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/uknation/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/uknation/LeetCode/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0466-count-the-repetitions](https://github.com/uknation/LeetCode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/uknation/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0486-predict-the-winner](https://github.com/uknation/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/uknation/LeetCode/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0306-additive-number](https://github.com/uknation/LeetCode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/uknation/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/uknation/LeetCode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/uknation/LeetCode/tree/master/0494-target-sum) |
 ## Simulation
 |  |
 | ------- |

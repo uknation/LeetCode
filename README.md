@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/uknation/LeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/uknation/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0466-count-the-repetitions](https://github.com/uknation/LeetCode/tree/master/0466-count-the-repetitions) |
 ## Stack
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0397-integer-replacement](https://github.com/uknation/LeetCode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/uknation/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/uknation/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0466-count-the-repetitions](https://github.com/uknation/LeetCode/tree/master/0466-count-the-repetitions) |
 ## Linked List
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/uknation/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/uknation/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/uknation/LeetCode/tree/master/0392-is-subsequence) |
+| [0466-count-the-repetitions](https://github.com/uknation/LeetCode/tree/master/0466-count-the-repetitions) |
 ## Prefix Sum
 |  |
 | ------- |

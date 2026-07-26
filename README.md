@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/uknation/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/uknation/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/uknation/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/uknation/LeetCode/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/uknation/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/uknation/LeetCode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/uknation/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/uknation/LeetCode/tree/master/0525-contiguous-array) |
 ## Sorting
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/uknation/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/uknation/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/uknation/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0525-contiguous-array](https://github.com/uknation/LeetCode/tree/master/0525-contiguous-array) |
 ## Sliding Window
 |  |
 | ------- |

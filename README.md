@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/uknation/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/uknation/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/uknation/LeetCode/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/uknation/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0397-integer-replacement](https://github.com/uknation/LeetCode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/uknation/LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/uknation/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0526-beautiful-arrangement](https://github.com/uknation/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0467-unique-substrings-in-wraparound-string](https://github.com/uknation/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0486-predict-the-winner](https://github.com/uknation/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/uknation/LeetCode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/uknation/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Linked List
 |  |
 | ------- |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0357-count-numbers-with-unique-digits](https://github.com/uknation/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/uknation/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/uknation/LeetCode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/uknation/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Simulation
 |  |
 | ------- |
@@ -614,4 +618,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/uknation/LeetCode/tree/master/0399-evaluate-division) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/uknation/LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
